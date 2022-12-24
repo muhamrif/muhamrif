@@ -2,8 +2,9 @@
 
 
 <h1>Hi 👋, my name is Muhammad Hamza</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=F70000&center=true&vCenter=true&width=700&lines=FullStack+Software+Engineer+who+will+code+for+coffee." alt="Typing SVG" /></a>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&center=true&vCenter=true&width=700&lines=FullStack+Software+Engineer%2C+who+will+code+for+coffee.)](https://git.io/typing-svg)
 
 
 - 👨‍💻 All of my projects are available at [https://www.muhamrif.dev](https://www.muhamrif.dev)
