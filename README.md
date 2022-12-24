@@ -22,4 +22,5 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamrif&" alt="muhamrif" /></p> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamrif&" alt="muhamrif" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamrif&" alt="muhamrif" /></p> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muhamrif)](https://git.io/streak-stats)
