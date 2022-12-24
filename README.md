@@ -1,4 +1,4 @@
-# muhamrif
+# @muhamrif
 
 <h1 align="center">Hi 👋, my name is Muhammad Hamza</h1>
 <h3 align="center">Software Engineer who will code for coffee.</h3>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **all things Cricket and React**
 
-- 📫 How to reach me **https://calendly.com/muhamrif**
+- 📫 Come Chat with me **https://calendly.com/muhamrif**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
