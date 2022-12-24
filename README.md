@@ -2,7 +2,7 @@
 
 
 <h1>Hi 👋, my name is Muhammad Hamza</h1>
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F70000&background=FF000000&width=675&lines=FullStack+Software+Engineer+who+will+code+for+coffee." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=100&color=F70000&background=FF000000&width=675&lines=FullStack+Software+Engineer+who+will+code+for+coffee." alt="Typing SVG" /></a>
 
 
 
