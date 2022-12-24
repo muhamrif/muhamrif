@@ -2,8 +2,7 @@
 
 
 <h1 align="center">Hi 👋, my name is Muhammad Hamza</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=FullStack+Software+Engineer+who+will+code+for+coffee)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=FullStack+Software+Engineer+who+will+code+for+coffee" alt="Typing SVG" /></a>
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://www.muhamrif.dev](https://www.muhamrif.dev)
