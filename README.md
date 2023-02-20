@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.muhamrif.dev](https://www.muhamrif.dev)
 
-- Currently working on: www.medexperts.io
+- 👨‍💻 Currently working on: www.medexperts.io
 
 - 💬 Ask me about **all things Cricket and React**
 
