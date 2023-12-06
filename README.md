@@ -1,11 +1,8 @@
 # @muhamrif
 
-
 <h1>Hi 👋, my name is Muhammad Hamza</h1>
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F70000&center=true&vCenter=true&width=700&lines=FullStack+Software+Engineer%2C+who+will+code+for+coffee.)](https://git.io/typing-svg)
-
 - 👨‍💻 Currently working on: www.medexperts.io
 - 📫 Come Chat with me **https://calendly.com/muhamrif**
 
