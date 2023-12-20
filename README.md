@@ -1,4 +1,5 @@
 # @muhamrif
+![](https://komarev.com/ghpvc/?username=muhamrif&color=blue)
 
 <h1>Hi 👋, my name is Muhammad Hamza</h1>
 
